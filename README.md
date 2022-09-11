@@ -15,7 +15,7 @@
       <p>Timres</p>
       <p>External Interrupts</p>
       <p>7-Segment</p>
-    <h3>Micrcontroler</h3>
+    <h3>Micrcontroller</h3>
       <p>ATmega16</p>
   <h2>Files</h2>
     <p>main.c : This file contains the code of the project.</p>
