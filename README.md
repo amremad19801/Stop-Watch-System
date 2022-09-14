@@ -11,16 +11,16 @@
      </br>
     </p>
   <h2>Project Components</h2>
+    <h3>Micrcontroller</h3>
+      <p>
+       <br>- ATmega16</br>
+      </p>
     <h3>Drivers</h3>
       <p>
        <br>- GPIO</br>
        <br>- Timres</br>
        <br>- External Interrupts</br>
        <br>- 7-Segment</br>
-      </p>
-    <h3>Micrcontroller</h3>
-      <p>
-       <br>- ATmega16</br>
       </p>
   <h2>Files</h2>
     <p>main.c : This file contains the code of the project.</p>
