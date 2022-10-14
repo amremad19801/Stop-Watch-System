@@ -1,6 +1,7 @@
 <h1>Stop-Watch-System</h1>
-  <p>The project is a stop watch system that controls the stop-watch time and displays it on 7-segments.</p>
   <h2>Project Description</h2>
+  <p>The project is a stop watch system that controls the stop-watch time and displays it on 7-segments.</p>
+  <h2>Project Specifications</h2>
     <p>
      <br>Stop Watch counting starts once the power is connected to the MCU.</br>
      <br>An external Interrupt INT0 is configured with a falling edge. A push button is connected with the internal pull-up resistor. If a falling edge is detected, the          Stop Watch time will reset reset.
