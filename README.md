@@ -14,7 +14,7 @@
   <h2>Project Components</h2>
     <h3>Micrcontroller</h3>
       <p>
-       <br>- ATmega16</br>
+       <br>- ATmega32</br>
       </p>
     <h3>Drivers</h3>
       <p>
